@@ -276,15 +276,15 @@
  	 	 	 	"eng": "You need to be at least level 3 to access unit exchange"
  	 	 	},
  	 	 	"defaultLines": {
- 	 	 	 	"trans": [
- 	 	 	 	 	"Do you want to buy Units, or use your Units?"
+ 	 	 	 	"trans" [
+                                       "Вы хотите приобрести Юниты или использовать их?"    
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Do you want to buy Units, or use your Units?"
  	 	 	 	]
  	 	 	}
  	 	},
- 	 	"cosmetic": {
+ 	 	"cosmetic":  
  	 	 	"name": {
  	 	 	 	"trans": "Декоративные киберимпланты",
  	 	 	 	"eng": "Cosmetic Cyberwear"
