@@ -5115,7 +5115,7 @@
  	 	 	"eng": "of Brutality"
  	 	},
  	 	"healingMultiplier": {
- 	 	 	"trans": "исцеления",
+ 	 	 	"trans": "лечения",
  	 	 	"eng": "of Healing"
  	 	},
  	 	"criticalDamageWeapon": {
@@ -5201,7 +5201,7 @@
  	"equipmentMarks": {
  	 	"mark1": {
  	 	 	"displayName": {
- 	 	 	 	"trans": "Смертельно опасное",
+ 	 	 	 	"trans": "Летальное",
  	 	 	 	"eng": "Lethal"
  	 	 	},
  	 	 	"description": {
@@ -5264,7 +5264,7 @@
  	 	 	"eng": "Elite"
  	 	},
  	 	"donation4": {
- 	 	 	"trans": "Легендарный",
+ 	 	 	"trans": "Легенда",
  	 	 	"eng": "Legendary"
  	 	},
  	 	"donation5": {
